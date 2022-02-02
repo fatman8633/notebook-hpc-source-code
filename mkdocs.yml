@@ -1,0 +1,9 @@
+site_name: V2HPC Wiki
+theme: cosmo
+nav:
+  - Home: index.md
+  - Bookmarks:
+    - 利用多核多线程进行程序优化: bookmarks/optimization-with-multicores-multithreads-from-ibm.md
+  - Tutorials:
+    - MKDOC 快速上手: tutorials/mkdoc-tutorial.md
+  - About: about.md
